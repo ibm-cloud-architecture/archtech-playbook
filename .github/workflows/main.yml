@@ -1,4 +1,4 @@
-name: Build & push Gatsby docs
+name: Build & Push Gatsby docs
 
 on:
   push:
