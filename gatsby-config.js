@@ -1,17 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: 'Modernization Playbook',
+    title: 'Architecture and Technology Playbook',
     description: 'Technical approaches to modernizing your existing enterprise applications for the cloud',
     keywords: 'cloud, modernization, application, integration',
   },
-  pathPrefix: `/modernization-playbook`,
+  pathPrefix: `/archtech-playbook`,
   plugins: [
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
         name: 'Carbon Design Gatsby Theme',
         short_name: 'Gatsby Theme Carbon',
-        start_url: '/moderization-playbook',
+        start_url: '/archtech-playbook',
         background_color: '#ffffff',
         theme_color: '#0062ff',
         display: 'browser',
@@ -22,7 +22,7 @@ module.exports = {
       options: {
         repository: {
           baseUrl:
-            'https://github.com/ibm-cloud-architecture/modernization-playbook',
+            'https://github.com/ibm-cloud-architecture/archtech-playbook',
         },
 	titleType: 'append'
       },
