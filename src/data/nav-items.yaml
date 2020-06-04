@@ -1,10 +1,23 @@
-- title: Getting started
+- title: Modernization Journey
   pages:
     - path: /getting-started
-- title: Applications
+- title: Discovery & Assessment
   pages:
-    - title: Introduction
-      path: /applications/
+    - title: Process
+      path: /discovery-assessment/process
+    - title: Technical
+      path: //discovery-assessment/technical 
+    - title: AppMod ROI
+      path: /discovery-assessment/ROI   
+- title: Containerization
+  pages:
+    - title:  Replatfrom
+      path: /applications/liberty
+    - title:  Rehost
+      path: /applications/liberty  
+- title: ---Solutions--- 
+  pages: 
+    - path: /getting-started          
 - title: Modernizing runtimes with Liberty
   pages:
     - title: Introduction

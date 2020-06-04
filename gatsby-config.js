@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Architecture and Technology Playbook',
-    description: 'Technical approaches to modernizing your existing enterprise applications for the cloud',
+    title: 'Application Modernization Playbook',
+    description: 'Prescriptive guidance to modernizing your existing enterprise applications for the cloud',
     keywords: 'cloud, modernization, application, integration',
   },
   pathPrefix: `/archtech-playbook`,
