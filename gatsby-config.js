@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Application Modernization Playbook',
+    title: 'Architecture and Technology Playbook for Container Platform',
     description: 'Prescriptive guidance to modernizing your existing enterprise applications for the cloud',
     keywords: 'cloud, modernization, application, integration',
   },

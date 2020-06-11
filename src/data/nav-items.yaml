@@ -1,24 +1,60 @@
-- title: Modernization Journey
+- title: Reference Architecture
   pages:
-    - path: /getting-started
-- title: Discovery & Assessment
+    - title: Introduction
+      path: /ref-arch
+    - title: Scenarios
+      path: /ref-arch/scenarios
+    - title: Requirements
+      path: /ref-arch/requirements 
+    - title: Architecture
+      path: /ref-arch/architecture
+- title: Operational Model
   pages:
-    - title: Process
+    - title: Infrastructure
+      path: /ops/infrastructure
+    - title: Installation
+      path: /ops/install
+    - title: Deployment
+      path: /ops/deployment   
+    - title: Networking
+      path: /ops/networking 
+    - title: Storage
+      path: /ops/storage
+    - title: Clusters
+      path: /ops/clusters
+    - title: Management
+      path: /ops/management
+    - title: Security
+      path: /ops/security
+- title: Development Model
+  pages:
+    - title: Self-service
+      path: /dev/self-service
+    - title: Tools
+      path: /dev/tools
+    - title: Environments
+      path: /dev/environments  
+    - title: Applications
+      path: /dev/applications 
+    - title: Code patterns
+      path: /dev/code
+    - title: Cloud services
+      path: /dev/cloud
+    - title: Development Guides
+      path: /dev/guides
+- title: Application Modernization
+  pages:
+    - title: Modernization Journey
+      path: /getting-started
+    - title: Discovery & Assessment
       path: /discovery-assessment/process
-    - title: Technical
-      path: //discovery-assessment/technical 
-    - title: AppMod ROI
-      path: /discovery-assessment/ROI   
-- title: Containerization
-  pages:
-    - title:  Replatfrom
+    - title: Containerization
+      path: /discovery-assessment/technical
+    - title: Replatfrom
       path: /applications/liberty
-    - title:  Rehost
-      path: /applications/liberty  
-- title: ---Solutions--- 
-  pages: 
-    - path: /getting-started          
-- title: Modernizing runtimes with Liberty
+    - title: Rehost
+      path: /applications/liberty
+- title: WebSphere Replatforming
   pages:
     - title: Introduction
       path: /applications/liberty
@@ -42,13 +78,9 @@
       path: /applications/liberty/OpenShiftPipelinesInstall
     - title: Managing session state
       path: /applications/liberty/liberty-sessions
-- title: Modernizing runtimes with Spring
-  pages:
-    - title: Introduction
-      path: /applications/spring/README
-    - title: Build
-      path: /applications/spring/spring-build
-- title: Modernizing operations
+    - title: Day 2 Operations
+      path: /day2-ops/README  
+- title: WebSphere Containerization
   pages:
     - title: Introduction
       path: /applications/was90/README
@@ -60,11 +92,13 @@
       path: /applications/was90/tWAS-build-WCMT4IC
     - title: Deploy
       path: /applications/was90/tWAS-deploy
-- title: Integration
+- title: WebSphere Refactoring
   pages:
     - title: Introduction
-      path: /integration/
-- title: Day 2 Operations
+      path: /applications/spring/README
+    - title: Build
+      path: /applications/spring/spring-build      
+- title: Integration Modernization
   pages:
-    - title: Install Prometheus
-      path: /day2-ops/README
+    - title: Introduction
+      path: /integration/                        
